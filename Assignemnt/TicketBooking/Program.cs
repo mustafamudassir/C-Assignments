@@ -150,7 +150,7 @@ using TicketBooking.Interface;
 #region Task 8: JDBC
 Console.WriteLine("\n\n\n\n\n\n\n\n\n\n\n------------------------------------------------------------------------------------------------------------------------");
 Console.WriteLine("                                                  WELCOME TO                                                          ");
-Console.WriteLine("                                        SWATHI's Ticket Booking System                                    ");
+Console.WriteLine("                                        Mustafas's Ticket Booking System                                    ");
 Console.WriteLine("------------------------------------------------------------------------------------------------------------------------");
 Console.ReadKey();
 Console.Clear();
